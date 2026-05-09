@@ -1,7 +1,5 @@
 # 🩺 Diabetes Prediction with Model Comparison
 
-**Difficulty: 2/10 — Perfect starting point**
-
 ## What It Is
 
 Use the Pima Indians Diabetes dataset to build and compare multiple classification models. The focus is on the engineering side — showing how preprocessing, feature scaling, and hyperparameter tuning each improve performance step by step.
